@@ -1,0 +1,34 @@
+Name - Shaikh Moin Dastagir
+Roll No : 16CS30033
+
+
+The files for specific tasks are as follows
+
+Ass1.py  - Task 1.1
+gen_structure.py - Task 1.2
+gen_centrality.py - Task 2.1
+analyze_centrality.py - Task 2.2
+
+
+If the grap plot doesnt work after installing snap
+sudo apt install gnuplot-nox
+
+Output Obtained in Task 2.2
+
+Graph name : email-Enron-subgraph.elist
+Number of overlaps for Closeness Centrality: 2
+Number of overlaps for Betweenness Centrality: 3
+
+Graph name : soc-Epinions1-subgraph.elist
+Number of overlaps for Closeness Centrality: 2
+Number of overlaps for Betweenness Centrality: 2
+
+Graph name : cit-HepPh-subgraph.elist
+Number of overlaps for Closeness Centrality: 5
+Number of overlaps for Betweenness Centrality: 4
+
+
+
+Graph name : p2p-Gnutella04-subgraph.elist
+Number of overlaps for Closeness Centrality: 1
+Number of overlaps for Betweenness Centrality: 2
