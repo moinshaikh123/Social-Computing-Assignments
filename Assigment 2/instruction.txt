@@ -1,0 +1,11 @@
+python version 2.7
+
+code files 
+main.py and compute.py
+ 
+
+to run 
+
+python main.py k
+
+where k = input value k that needs to be given
